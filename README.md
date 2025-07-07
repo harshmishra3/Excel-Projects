@@ -29,7 +29,7 @@ The dashboard visualizes monthly sales, order trends, customer demographics, and
    - Maharashtra, Delhi, Karnataka, Tamil Nadu, Uttar Pradesh, Gujarat, West Bengal, Rajasthan, Haryana, Telangana.
 
 6. **Which channel contributed the most to sales?**
-   - **Online channel** had the maximum contribution to overall sales.
+   - Amazon had the maximum contribution to overall sales.
 
 7. **Which is the highest selling category?**
    - **Fashion** category topped the list in 2022.
