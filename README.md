@@ -34,18 +34,6 @@ The dashboard visualizes monthly sales, order trends, customer demographics, and
 7. **Which is the highest selling category?**
    - **Fashion** category topped the list in 2022.
 
----
-
- [Go to Conclusion & Insights](#conclusion--insights)
-
----
-
-##  Files Included
-
-- `Excel dashboard report.png` – Final dashboard screenshot.
-- `Sales_Dashboard.xlsx` – The Excel workbook (optional to upload).
-
----
 
 ## 📌 Conclusion & Insights
 
